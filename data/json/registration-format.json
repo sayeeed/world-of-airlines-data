@@ -1,0 +1,24 @@
+{
+    "defaults": {
+        "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "digits": "0123456789",
+        "alphanumeric": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    },
+    "formats": [
+        {
+            "countryCode": "US",
+            "prefix": "N",
+            "pattern": "{P}{D}{D}{D}{L}{L}"
+        },
+        {
+            "countryCode": "UK",
+            "prefix": "G-",
+            "pattern": "{P}{L}{L}{L}{L}"
+        },
+        {
+            "countryCode": "*",
+            "prefix": "REG-",
+            "pattern": "{P}{A}{A}{A}{A}{A}"
+        }
+    ]
+}

@@ -1,0 +1,2442 @@
+{
+  "airlines": [
+    {
+      "name": "Aegean Airlines",
+      "iata": "A3",
+      "icao": "AEE",
+      "callsign": "AEGEAN",
+      "countryCode": "GR",
+      "hqAirportIata": "ATH",
+      "baseAirportIatas": [
+        "SKG"
+      ]
+    },
+    {
+      "name": "Aer Lingus",
+      "iata": "EI",
+      "icao": "EIN",
+      "callsign": "SHAMROCK",
+      "countryCode": "IE",
+      "hqAirportIata": "DUB",
+      "baseAirportIatas": [
+        "MAN",
+        "NOC",
+        "ORK",
+        "SNN"
+      ]
+    },
+    {
+      "name": "Aeroflot",
+      "iata": "SU",
+      "icao": "AFL",
+      "callsign": "AEROFLOT",
+      "countryCode": "RU",
+      "hqAirportIata": "SVO",
+      "baseAirportIatas": [
+        "IKT",
+        "KHV",
+        "KJA",
+        "LED",
+        "OVB",
+        "SVX",
+        "VVO"
+      ]
+    },
+    {
+      "name": "Aerolineas Argentinas",
+      "iata": "AR",
+      "icao": "ARG",
+      "callsign": "ARGENTINA",
+      "countryCode": "AR",
+      "hqAirportIata": "EZE",
+      "baseAirportIatas": [
+        "AEP",
+        "BHI",
+        "COR",
+        "FTE",
+        "MDZ",
+        "NQN",
+        "REL",
+        "ROS",
+        "SLA"
+      ]
+    },
+    {
+      "name": "Aeromexico",
+      "iata": "AM",
+      "icao": "AMX",
+      "callsign": "AEROMEXICO",
+      "countryCode": "MX",
+      "hqAirportIata": "MEX",
+      "baseAirportIatas": [
+        "GDL",
+        "MTY",
+        "NLU"
+      ]
+    },
+    {
+      "name": "Air Algerie",
+      "iata": "AH",
+      "icao": "DAH",
+      "callsign": "AIR ALGERIE",
+      "countryCode": "DZ",
+      "hqAirportIata": "ALG",
+      "baseAirportIatas": [
+        "AAE",
+        "AZR",
+        "BJA",
+        "BLJ",
+        "BSK",
+        "CBH",
+        "CFK",
+        "CZL",
+        "IAN",
+        "OGX",
+        "ORN",
+        "QSF",
+        "TLM",
+        "TMR"
+      ]
+    },
+    {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY",
+      "callsign": "ARABIA",
+      "countryCode": "AE",
+      "hqAirportIata": "SHJ",
+      "baseAirportIatas": [
+        "RKT"
+      ]
+    },
+    {
+      "name": "Air Astana",
+      "iata": "KC",
+      "icao": "KZR",
+      "callsign": "ASTANALINE",
+      "countryCode": "KZ",
+      "hqAirportIata": "ALA",
+      "baseAirportIatas": [
+        "AKX",
+        "CIT",
+        "GUW",
+        "NQZ",
+        "SCO",
+        "URA"
+      ]
+    },
+    {
+      "name": "Air Baltic",
+      "iata": "BT",
+      "icao": "BTI",
+      "callsign": "AIR BALTIC",
+      "countryCode": "LV",
+      "hqAirportIata": "RIX",
+      "baseAirportIatas": [
+        "PLQ",
+        "TLL",
+        "VNO"
+      ]
+    },
+    {
+      "name": "Air Canada",
+      "iata": "AC",
+      "icao": "ACA",
+      "callsign": "AIR CANADA",
+      "countryCode": "CA",
+      "hqAirportIata": "YUL",
+      "baseAirportIatas": [
+        "YEG",
+        "YHZ",
+        "YOW",
+        "YVR",
+        "YYC",
+        "YYZ"
+      ]
+    },
+    {
+      "name": "Air China",
+      "iata": "CA",
+      "icao": "CCA",
+      "callsign": "AIR CHINA",
+      "countryCode": "CN",
+      "hqAirportIata": "PEK",
+      "baseAirportIatas": [
+        "CAN",
+        "CGO",
+        "CGQ",
+        "CKG",
+        "CSX",
+        "CTU",
+        "DLC",
+        "HET",
+        "HGH",
+        "HLD",
+        "HRB",
+        "INC",
+        "KHI",
+        "KMG",
+        "KRY",
+        "KWE",
+        "LHW",
+        "PKX",
+        "PVG",
+        "SHA",
+        "SHE",
+        "SZX",
+        "TFU",
+        "TSN",
+        "TYN",
+        "URC",
+        "WNZ",
+        "WUH",
+        "XIY",
+        "YIN",
+        "YNJ"
+      ]
+    },
+    {
+      "name": "Air Cote d'Ivoire",
+      "iata": "HF",
+      "icao": "VRE",
+      "callsign": "COTE D'IVOIRE",
+      "countryCode": "CI",
+      "hqAirportIata": "ABJ",
+      "baseAirportIatas": [
+        "ABV",
+        "CKY",
+        "FIH",
+        "LBV",
+        "NSI"
+      ]
+    },
+    {
+      "name": "Air Europa",
+      "iata": "UX",
+      "icao": "AEA",
+      "callsign": "EUROPA",
+      "countryCode": "ES",
+      "hqAirportIata": "MAD",
+      "baseAirportIatas": [
+        "BIO",
+        "PMI"
+      ]
+    },
+    {
+      "name": "Air France",
+      "iata": "AF",
+      "icao": "AFR",
+      "callsign": "AIRFRANS",
+      "countryCode": "FR",
+      "hqAirportIata": "CDG",
+      "baseAirportIatas": [
+        "ABV",
+        "CAY",
+        "DLA",
+        "FIH",
+        "LAX",
+        "NDJ",
+        "NKC",
+        "NSI",
+        "ORY",
+        "PTP"
+      ]
+    },
+    {
+      "name": "Air India",
+      "iata": "AI",
+      "icao": "AIC",
+      "callsign": "AIRINDIA",
+      "countryCode": "IN",
+      "hqAirportIata": "DEL",
+      "baseAirportIatas": [
+        "AMD",
+        "ATQ",
+        "BLR",
+        "BOM",
+        "CCU",
+        "COK",
+        "GOX",
+        "HYD",
+        "IMF",
+        "IXJ",
+        "IXL",
+        "MAA",
+        "PNQ",
+        "VTZ"
+      ]
+    },
+    {
+      "name": "Air Macau",
+      "iata": "NX",
+      "icao": "AMU",
+      "callsign": "AIR MACAU",
+      "countryCode": "MO",
+      "hqAirportIata": "MFM",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ",
+      "callsign": "NEW ZEALND",
+      "countryCode": "NZ",
+      "hqAirportIata": "AKL",
+      "baseAirportIatas": [
+        "CHC",
+        "WLG",
+        "ZQN"
+      ]
+    },
+    {
+      "name": "Air Niugini",
+      "iata": "PX",
+      "icao": "ANG",
+      "callsign": "Air Niugini",
+      "countryCode": "PG",
+      "hqAirportIata": "POM",
+      "baseAirportIatas": [
+        "KVG",
+        "LAE",
+        "MAG",
+        "NAN",
+        "RAB",
+        "ROR",
+        "WWK"
+      ]
+    },
+    {
+      "name": "Air Peace",
+      "iata": "P4",
+      "icao": "APK",
+      "callsign": "PEACE BIRD",
+      "countryCode": "NG",
+      "hqAirportIata": "LOS",
+      "baseAirportIatas": [
+        "ABV",
+        "ACC"
+      ]
+    },
+    {
+      "name": "Air Senegal",
+      "iata": "HC",
+      "icao": "SZN",
+      "callsign": "SENSA",
+      "countryCode": "SN",
+      "hqAirportIata": "DSS",
+      "baseAirportIatas": [
+        "COO",
+        "RAI"
+      ]
+    },
+    {
+      "name": "Air Serbia",
+      "iata": "JU",
+      "icao": "ASL",
+      "callsign": "AIR SERBIA",
+      "countryCode": "RS",
+      "hqAirportIata": "BEG",
+      "baseAirportIatas": [
+        "INI",
+        "KVO"
+      ]
+    },
+    {
+      "name": "AirAsia",
+      "iata": "AK",
+      "icao": "AXM",
+      "callsign": "RED CAP",
+      "countryCode": "MY",
+      "hqAirportIata": "KUL",
+      "baseAirportIatas": [
+        "BKI",
+        "JHB",
+        "KCH",
+        "LGK",
+        "PEN"
+      ]
+    },
+    {
+      "name": "Airlink",
+      "iata": "4Z",
+      "icao": "LNK",
+      "callsign": "LINK",
+      "countryCode": "ZA",
+      "hqAirportIata": "JNB",
+      "baseAirportIatas": [
+        "CPT",
+        "DUR"
+      ]
+    },
+    {
+      "name": "Akasa Air",
+      "iata": "QP",
+      "icao": "AKJ",
+      "callsign": "AKASA AIR",
+      "countryCode": "IN",
+      "hqAirportIata": "BOM",
+      "baseAirportIatas": [
+        "AMD",
+        "BLR",
+        "DEL",
+        "GAU",
+        "MAA"
+      ]
+    },
+    {
+      "name": "Alaska Airlines",
+      "iata": "AS",
+      "icao": "ASA",
+      "callsign": "ALASKA",
+      "countryCode": "US",
+      "hqAirportIata": "SEA",
+      "baseAirportIatas": [
+        "ANC",
+        "BOI",
+        "BRW",
+        "CDV",
+        "HNL",
+        "JNU",
+        "KOA",
+        "KTN",
+        "LAX",
+        "LIH",
+        "OGG",
+        "OTZ",
+        "PAE",
+        "PDX",
+        "PSG",
+        "SAN",
+        "SFO",
+        "SJC"
+      ]
+    },
+    {
+      "name": "All Nippon Airways",
+      "iata": "NH",
+      "icao": "ANA",
+      "callsign": "ALL NIPPON",
+      "countryCode": "JP",
+      "hqAirportIata": "HND",
+      "baseAirportIatas": [
+        "CTS",
+        "FUK",
+        "ITM",
+        "KIX",
+        "NGO",
+        "NRT",
+        "OKA"
+      ]
+    },
+    {
+      "name": "Allegiant Air",
+      "iata": "G4",
+      "icao": "AAY",
+      "callsign": "ALLEGIANT",
+      "countryCode": "US",
+      "hqAirportIata": "LAS",
+      "baseAirportIatas": [
+        "AVL",
+        "AZA",
+        "BLI",
+        "BNA",
+        "CVG",
+        "DEN",
+        "EWR",
+        "FLL",
+        "IND",
+        "JAX",
+        "LAX",
+        "PGD",
+        "PHL",
+        "PIE",
+        "PIT",
+        "PVU",
+        "SAV",
+        "SFB",
+        "SRQ",
+        "VPS"
+      ]
+    },
+    {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL",
+      "callsign": "AMERICAN",
+      "countryCode": "US",
+      "hqAirportIata": "DFW",
+      "baseAirportIatas": [
+        "BOS",
+        "CLT",
+        "DCA",
+        "DEN",
+        "JFK",
+        "LAX",
+        "LGA",
+        "MIA",
+        "ORD",
+        "PHL",
+        "PHX"
+      ]
+    },
+    {
+      "name": "Asiana Airlines",
+      "iata": "OZ",
+      "icao": "AAR",
+      "callsign": "ASIANA",
+      "countryCode": "KR",
+      "hqAirportIata": "ICN",
+      "baseAirportIatas": [
+        "CJU",
+        "GMP"
+      ]
+    },
+    {
+      "name": "AVELO Airlines",
+      "iata": "XP",
+      "icao": "VXP",
+      "callsign": "AVELO",
+      "countryCode": "US",
+      "hqAirportIata": "BUR",
+      "baseAirportIatas": [
+        "HVN",
+        "ILG",
+        "ILM",
+        "LAS",
+        "PSP",
+        "RDU"
+      ]
+    },
+    {
+      "name": "Avianca",
+      "iata": "AV",
+      "icao": "AVA",
+      "callsign": "AVIANCA",
+      "countryCode": "CO",
+      "hqAirportIata": "BOG",
+      "baseAirportIatas": [
+        "BAQ",
+        "CLO",
+        "CTG",
+        "GUA",
+        "GYE",
+        "MDE",
+        "SAL",
+        "SJO",
+        "UIO"
+      ]
+    },
+    {
+      "name": "Azerbaijan Airlines",
+      "iata": "J2",
+      "icao": "AHY",
+      "callsign": "AZAL",
+      "countryCode": "AZ",
+      "hqAirportIata": "GYD",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Azul Airlines",
+      "iata": "AD",
+      "icao": "AZU",
+      "callsign": "AZUL",
+      "countryCode": "BR",
+      "hqAirportIata": "VCP",
+      "baseAirportIatas": [
+        "AAX",
+        "BEL",
+        "BPS",
+        "BSB",
+        "BYO",
+        "CGB",
+        "CNF",
+        "CWB",
+        "FLN",
+        "FOR",
+        "GGF",
+        "GRU",
+        "GYN",
+        "MAO",
+        "MCZ",
+        "NAT",
+        "PHB",
+        "POA",
+        "PVH",
+        "REC",
+        "SDU",
+        "SLZ",
+        "SSA",
+        "STM"
+      ]
+    },
+    {
+      "name": "Breeze Air",
+      "iata": "MX",
+      "icao": "MXY",
+      "callsign": "MOXY",
+      "countryCode": "US",
+      "hqAirportIata": "TPA",
+      "baseAirportIatas": [
+        "BDL",
+        "CHS",
+        "HPN",
+        "LAX",
+        "MCO",
+        "MSY",
+        "ORF",
+        "PVD",
+        "PVU",
+        "RDU",
+        "SFO",
+        "SNA"
+      ]
+    },
+    {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW",
+      "callsign": "SPEEDBIRD",
+      "countryCode": "GB",
+      "hqAirportIata": "LHR",
+      "baseAirportIatas": [
+        "ANU",
+        "EZE",
+        "LGW",
+        "NAS",
+        "SIN",
+        "UVF"
+      ]
+    },
+    {
+      "name": "Brussels Airlines",
+      "iata": "SN",
+      "icao": "BEL",
+      "callsign": "BEE-LINE",
+      "countryCode": "BE",
+      "hqAirportIata": "BRU",
+      "baseAirportIatas": [
+        "ABJ",
+        "ACC",
+        "BJL",
+        "DSS",
+        "EBB",
+        "FNA",
+        "LAD",
+        "NBO",
+        "NSI"
+      ]
+    },
+    {
+      "name": "Cathay Pacific Airways",
+      "iata": "CX",
+      "icao": "CPA",
+      "callsign": "CATHAY",
+      "countryCode": "HK",
+      "hqAirportIata": "HKG",
+      "baseAirportIatas": [
+        "BKK",
+        "TPE"
+      ]
+    },
+    {
+      "name": "Cebu Pacific Air",
+      "iata": "5J",
+      "icao": "CEB",
+      "callsign": "CEBU",
+      "countryCode": "PH",
+      "hqAirportIata": "CEB",
+      "baseAirportIatas": [
+        "CRK",
+        "DVO",
+        "ILO",
+        "MNL",
+        "ZAM"
+      ]
+    },
+    {
+      "name": "Chengdu Airlines",
+      "iata": "EU",
+      "icao": "UEA",
+      "callsign": "UNITED EAGLE",
+      "countryCode": "CN",
+      "hqAirportIata": "CTU",
+      "baseAirportIatas": [
+        "AKU",
+        "CGO",
+        "CGQ",
+        "CSX",
+        "DLC",
+        "DZH",
+        "FOC",
+        "FYJ",
+        "HAK",
+        "HEK",
+        "HET",
+        "HFE",
+        "HLD",
+        "HLH",
+        "HRB",
+        "HTN",
+        "JJN",
+        "JMU",
+        "JUH",
+        "KCA",
+        "KHG",
+        "KHN",
+        "KRL",
+        "KRY",
+        "LDS",
+        "LHW",
+        "LXA",
+        "NLT",
+        "OHE",
+        "SHE",
+        "SJW",
+        "SYX",
+        "TCG",
+        "TFU",
+        "TLQ",
+        "TNA",
+        "WUH",
+        "XIC",
+        "XIL",
+        "XMN",
+        "YIN",
+        "YYA",
+        "ZYI"
+      ]
+    },
+    {
+      "name": "China Airlines",
+      "iata": "CI",
+      "icao": "CAL",
+      "callsign": "DYNASTY",
+      "countryCode": "TW",
+      "hqAirportIata": "TPE",
+      "baseAirportIatas": [
+        "AKL",
+        "KHH",
+        "TSA"
+      ]
+    },
+    {
+      "name": "China Eastern Airlines",
+      "iata": "MU",
+      "icao": "CES",
+      "callsign": "CHINA EASTERN",
+      "countryCode": "CN",
+      "hqAirportIata": "PVG",
+      "baseAirportIatas": [
+        "CAN",
+        "CGQ",
+        "CKG",
+        "CSX",
+        "CZX",
+        "DLC",
+        "DLU",
+        "DNH",
+        "DSN",
+        "FOC",
+        "HAK",
+        "HET",
+        "HFE",
+        "HGH",
+        "HRB",
+        "INC",
+        "KHG",
+        "KHN",
+        "KMG",
+        "KWE",
+        "KWL",
+        "LHW",
+        "LXA",
+        "MLE",
+        "NGB",
+        "NKG",
+        "NNG",
+        "PEK",
+        "PKX",
+        "SHA",
+        "SHE",
+        "SWA",
+        "SZX",
+        "TAO",
+        "TFU",
+        "TSN",
+        "TYN",
+        "URC",
+        "WEH",
+        "WNZ",
+        "WUH",
+        "WUX",
+        "XIY",
+        "XMN",
+        "XNN",
+        "YIH",
+        "YNT"
+      ]
+    },
+    {
+      "name": "China Express Airlines",
+      "iata": "G5",
+      "icao": "HXA",
+      "callsign": "CHINA EXPRESS",
+      "countryCode": "CN",
+      "hqAirportIata": "CKG",
+      "baseAirportIatas": [
+        "AKU",
+        "BAV",
+        "BPL",
+        "CGO",
+        "CIH",
+        "CSX",
+        "DLC",
+        "DSN",
+        "DYG",
+        "ENY",
+        "ERL",
+        "FOC",
+        "HET",
+        "JUZ",
+        "KCA",
+        "KHG",
+        "KRL",
+        "KWE",
+        "LFQ",
+        "LHW",
+        "RQA",
+        "SHE",
+        "TCG",
+        "TEN",
+        "TFU",
+        "TGO",
+        "TLQ",
+        "TSN",
+        "WHA",
+        "WNH",
+        "XIY",
+        "YIN",
+        "ZHA"
+      ]
+    },
+    {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN",
+      "callsign": "CHINA SOUTHERN",
+      "countryCode": "CN",
+      "hqAirportIata": "CAN",
+      "baseAirportIatas": [
+        "CGO",
+        "CGQ",
+        "CKG",
+        "CSX",
+        "DLC",
+        "HAK",
+        "HGH",
+        "HRB",
+        "ICN",
+        "KHG",
+        "KMG",
+        "KRL",
+        "KWE",
+        "NGB",
+        "NKG",
+        "NNG",
+        "PKX",
+        "PVG",
+        "SHA",
+        "SHE",
+        "SHF",
+        "SWA",
+        "SYX",
+        "SZX",
+        "TAO",
+        "TFU",
+        "TIJ",
+        "TYN",
+        "URC",
+        "WUH",
+        "XIY",
+        "YIW",
+        "YNJ",
+        "YTY",
+        "ZUH"
+      ]
+    },
+    {
+      "name": "China West Air",
+      "iata": "PN",
+      "icao": "CHB",
+      "callsign": "WEST CHINA",
+      "countryCode": "CN",
+      "hqAirportIata": "CKG",
+      "baseAirportIatas": [
+        "CGO",
+        "CSX",
+        "HFE",
+        "HRB",
+        "JGS",
+        "KOW",
+        "LXA",
+        "NKG",
+        "SYX",
+        "TNA",
+        "WUH"
+      ]
+    },
+    {
+      "name": "Conviasa",
+      "iata": "V0",
+      "icao": "VCV",
+      "callsign": "CONVIASA",
+      "countryCode": "VE",
+      "hqAirportIata": "CCS",
+      "baseAirportIatas": [
+        "MAR",
+        "PMV",
+        "PZO"
+      ]
+    },
+    {
+      "name": "COPA Airlines",
+      "iata": "CM",
+      "icao": "CMP",
+      "callsign": "COPA",
+      "countryCode": "PA",
+      "hqAirportIata": "PTY",
+      "baseAirportIatas": [
+        "MGA",
+        "SJO"
+      ]
+    },
+    {
+      "name": "Croatia Airlines",
+      "iata": "OU",
+      "icao": "CTN",
+      "callsign": "CROATIA",
+      "countryCode": "HR",
+      "hqAirportIata": "ZAG",
+      "baseAirportIatas": [
+        "OSI",
+        "RJK",
+        "SPU",
+        "ZAD"
+      ]
+    },
+    {
+      "name": "Delta Air Lines",
+      "iata": "DL",
+      "icao": "DAL",
+      "callsign": "DELTA",
+      "countryCode": "US",
+      "hqAirportIata": "ATL",
+      "baseAirportIatas": [
+        "AMS",
+        "ATL",
+        "BOS",
+        "CDG",
+        "CVG",
+        "DCA",
+        "DTW",
+        "HNL",
+        "JFK",
+        "LAS",
+        "LAX",
+        "LGA",
+        "MCO",
+        "MIA",
+        "MSP",
+        "RDU",
+        "SEA",
+        "SLC"
+      ]
+    },
+    {
+      "name": "EasyJet",
+      "iata": "U2",
+      "icao": "EZY",
+      "callsign": "EASY",
+      "countryCode": "GB",
+      "hqAirportIata": "LTN",
+      "baseAirportIatas": [
+        "AMS",
+        "BER",
+        "BFS",
+        "BOD",
+        "BRS",
+        "BSL",
+        "CDG",
+        "EDI",
+        "FAO",
+        "FCO",
+        "GLA",
+        "GVA",
+        "LGW",
+        "LIS",
+        "LPL",
+        "LYS",
+        "MAN",
+        "MXP",
+        "NAP",
+        "NCE",
+        "NTE",
+        "OPO",
+        "ORY",
+        "SEN",
+        "SOU",
+        "TLS"
+      ]
+    },
+    {
+      "name": "Edelweiss Air",
+      "iata": "WK",
+      "icao": "EDW",
+      "callsign": "EDELWEISS",
+      "countryCode": "CH",
+      "hqAirportIata": "ZRH",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Egyptair",
+      "iata": "MS",
+      "icao": "MSR",
+      "callsign": "EGYPTAIR",
+      "countryCode": "EG",
+      "hqAirportIata": "CAI",
+      "baseAirportIatas": [
+        "ASW",
+        "HBE"
+      ]
+    },
+    {
+      "name": "El Al Israel Airlines",
+      "iata": "LY",
+      "icao": "ELY",
+      "callsign": "ELAL",
+      "countryCode": "IL",
+      "hqAirportIata": "TLV",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Emirates",
+      "iata": "EK",
+      "icao": "UAE",
+      "callsign": "EMIRATES",
+      "countryCode": "AE",
+      "hqAirportIata": "DXB",
+      "baseAirportIatas": [
+        "ABJ",
+        "BCN",
+        "BKK",
+        "CEB",
+        "CMB",
+        "DSS",
+        "GIG",
+        "HRE",
+        "JFK",
+        "MLA",
+        "SYD"
+      ]
+    },
+    {
+      "name": "Ethiopian Airlines",
+      "iata": "ET",
+      "icao": "ETH",
+      "callsign": "ETHIOPIAN",
+      "countryCode": "ET",
+      "hqAirportIata": "ADD",
+      "baseAirportIatas": [
+        "ABJ",
+        "BKK",
+        "BKO",
+        "BLZ",
+        "BZV",
+        "DAR",
+        "DIR",
+        "DLA",
+        "FCO",
+        "GBE",
+        "GRU",
+        "HKG",
+        "ICN",
+        "JIJ",
+        "LFW",
+        "LLI",
+        "LLW",
+        "MAN",
+        "MXP",
+        "NLA",
+        "NSI",
+        "OUA",
+        "SIN",
+        "VIE"
+      ]
+    },
+    {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD",
+      "callsign": "ETIHAD",
+      "countryCode": "AE",
+      "hqAirportIata": "AUH",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Eurowings",
+      "iata": "EW",
+      "icao": "EWG",
+      "callsign": "EUROWINGS",
+      "countryCode": "DE",
+      "hqAirportIata": "DUS",
+      "baseAirportIatas": [
+        "ARN",
+        "BER",
+        "CGN",
+        "FRA",
+        "HAJ",
+        "HAM",
+        "MUC",
+        "NUE",
+        "PMI",
+        "PRG",
+        "STR"
+      ]
+    },
+    {
+      "name": "EVA Airways",
+      "iata": "BR",
+      "icao": "EVA",
+      "callsign": "EVA",
+      "countryCode": "TW",
+      "hqAirportIata": "TPE",
+      "baseAirportIatas": [
+        "BKK",
+        "KHH",
+        "TSA"
+      ]
+    },
+    {
+      "name": "Finnair",
+      "iata": "AY",
+      "icao": "FIN",
+      "callsign": "FINNAIR",
+      "countryCode": "FI",
+      "hqAirportIata": "HEL",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "flydubai",
+      "iata": "FZ",
+      "icao": "FDB",
+      "callsign": "SKYDUBAI",
+      "countryCode": "AE",
+      "hqAirportIata": "DXB",
+      "baseAirportIatas": [
+        "DAR"
+      ]
+    },
+    {
+      "name": "Frontier Airlines",
+      "iata": "F9",
+      "icao": "FFT",
+      "callsign": "FRONTIER FLIGHT",
+      "countryCode": "US",
+      "hqAirportIata": "DEN",
+      "baseAirportIatas": [
+        "ATL",
+        "CLE",
+        "CLT",
+        "CVG",
+        "DFW",
+        "LAS",
+        "MCO",
+        "MDW",
+        "MIA",
+        "ORD",
+        "PHL",
+        "PHX",
+        "RDU",
+        "STL",
+        "TPA",
+        "TTN"
+      ]
+    },
+    {
+      "name": "Garuda Indonesia",
+      "iata": "GA",
+      "icao": "GIA",
+      "callsign": "INDONESIA",
+      "countryCode": "ID",
+      "hqAirportIata": "CGK",
+      "baseAirportIatas": [
+        "DJJ",
+        "DPS",
+        "MDC",
+        "SUB",
+        "UPG"
+      ]
+    },
+    {
+      "name": "GOL Airlines",
+      "iata": "G3",
+      "icao": "GLO",
+      "callsign": "GOL",
+      "countryCode": "BR",
+      "hqAirportIata": "GIG",
+      "baseAirportIatas": [
+        "BEL",
+        "BSB",
+        "CGH",
+        "CNF",
+        "CWB",
+        "CZS",
+        "EZE",
+        "FLN",
+        "FOR",
+        "GRU",
+        "MAO",
+        "NAT",
+        "REC",
+        "SDU",
+        "SSA",
+        "VIX"
+      ]
+    },
+    {
+      "name": "Gulf Air",
+      "iata": "GF",
+      "icao": "GFA",
+      "callsign": "GULF AIR",
+      "countryCode": "BH",
+      "hqAirportIata": "BAH",
+      "baseAirportIatas": [
+        "FCO",
+        "GYD",
+        "MLE"
+      ]
+    },
+    {
+      "name": "Hainan Airlines",
+      "iata": "HU",
+      "icao": "CHH",
+      "callsign": "HAINAN",
+      "countryCode": "CN",
+      "hqAirportIata": "HAK",
+      "baseAirportIatas": [
+        "CAN",
+        "CGO",
+        "CKG",
+        "CSX",
+        "DLC",
+        "HET",
+        "HFE",
+        "HGH",
+        "HRB",
+        "KHN",
+        "LHW",
+        "NGB",
+        "NKG",
+        "PEK",
+        "PVG",
+        "SHE",
+        "SJW",
+        "SYX",
+        "SZX",
+        "TFU",
+        "TSN",
+        "TYN",
+        "URC",
+        "WUH",
+        "XIY"
+      ]
+    },
+    {
+      "name": "Hawaiian Airlines",
+      "iata": "HA",
+      "icao": "ASA",
+      "callsign": "ALASKA",
+      "countryCode": "US",
+      "hqAirportIata": "HNL",
+      "baseAirportIatas": [
+        "KOA",
+        "LIH",
+        "OGG",
+        "SEA"
+      ]
+    },
+    {
+      "name": "Hong Kong Airlines",
+      "iata": "HX",
+      "icao": "CRK",
+      "callsign": "BAUHINIA",
+      "countryCode": "HK",
+      "hqAirportIata": "HKG",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE",
+      "callsign": "IBERIA",
+      "countryCode": "ES",
+      "hqAirportIata": "MAD",
+      "baseAirportIatas": [
+        "BCN",
+        "GUA"
+      ]
+    },
+    {
+      "name": "Icelandair",
+      "iata": "FI",
+      "icao": "ICE",
+      "callsign": "ICEAIR",
+      "countryCode": "IS",
+      "hqAirportIata": "RKV",
+      "baseAirportIatas": [
+        "KEF"
+      ]
+    },
+    {
+      "name": "IndiGo Air",
+      "iata": "6E",
+      "icao": "IGO",
+      "callsign": "IFLY",
+      "countryCode": "IN",
+      "hqAirportIata": "DEL",
+      "baseAirportIatas": [
+        "AMD",
+        "ATQ",
+        "BLR",
+        "BOM",
+        "CCJ",
+        "CCU",
+        "CJB",
+        "CNN",
+        "COK",
+        "GAU",
+        "GOI",
+        "GOX",
+        "HYD",
+        "IDR",
+        "IMF",
+        "IXC",
+        "IXR",
+        "JAI",
+        "LKO",
+        "MAA",
+        "NAG",
+        "PAT",
+        "PNQ",
+        "SXR",
+        "TRV",
+        "VTZ"
+      ]
+    },
+    {
+      "name": "Iran Air",
+      "iata": "IR",
+      "icao": "IRA",
+      "callsign": "IRANAIR",
+      "countryCode": "IR",
+      "hqAirportIata": "THR",
+      "baseAirportIatas": [
+        "AWZ",
+        "BND",
+        "IFN",
+        "IKA",
+        "LRR",
+        "MHD",
+        "SYZ",
+        "ZAH"
+      ]
+    },
+    {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW",
+      "callsign": "IRAQI",
+      "countryCode": "IQ",
+      "hqAirportIata": "BGW",
+      "baseAirportIatas": [
+        "BSR",
+        "EBL",
+        "ISU",
+        "KIK",
+        "NJF"
+      ]
+    },
+    {
+      "name": "ITA",
+      "iata": "AZ",
+      "icao": "ITY",
+      "callsign": "ITARROW",
+      "countryCode": "IT",
+      "hqAirportIata": "FCO",
+      "baseAirportIatas": [
+        "LIN"
+      ]
+    },
+    {
+      "name": "Japan Airlines",
+      "iata": "JL",
+      "icao": "JAL",
+      "callsign": "JAPAN AIR",
+      "countryCode": "JP",
+      "hqAirportIata": "HND",
+      "baseAirportIatas": [
+        "CTS",
+        "FUK",
+        "HKD",
+        "ITM",
+        "KIX",
+        "NGO",
+        "NRT"
+      ]
+    },
+    {
+      "name": "Jeju Airlines",
+      "iata": "7C",
+      "icao": "JJA",
+      "callsign": "JEJU AIR",
+      "countryCode": "KR",
+      "hqAirportIata": "CJU",
+      "baseAirportIatas": [
+        "GMP",
+        "ICN",
+        "PUS",
+        "TAE"
+      ]
+    },
+    {
+      "name": "Jet2.com",
+      "iata": "LS",
+      "icao": "EXS",
+      "callsign": "CHANNEX",
+      "countryCode": "GB",
+      "hqAirportIata": "LBA",
+      "baseAirportIatas": [
+        "BFS",
+        "BHX",
+        "BRS",
+        "EDI",
+        "EMA",
+        "GLA",
+        "LPL",
+        "MAN",
+        "NCL",
+        "STN"
+      ]
+    },
+    {
+      "name": "Jetblue Airways Corporation",
+      "iata": "B6",
+      "icao": "JBU",
+      "callsign": "JETBLUE",
+      "countryCode": "US",
+      "hqAirportIata": "JFK",
+      "baseAirportIatas": [
+        "BOS",
+        "DCA",
+        "EWR",
+        "FLL",
+        "HPN",
+        "LAX",
+        "LGA",
+        "MCO",
+        "PBI",
+        "SJU",
+        "TPA"
+      ]
+    },
+    {
+      "name": "JetSMART",
+      "iata": "JA",
+      "icao": "JAT",
+      "callsign": "ROCKSMART",
+      "countryCode": "CL",
+      "hqAirportIata": "SCL",
+      "baseAirportIatas": [
+        "CCP",
+        "IQQ",
+        "LSC",
+        "MVD",
+        "PMC"
+      ]
+    },
+    {
+      "name": "Jetstar Airways",
+      "iata": "JQ",
+      "icao": "JST",
+      "callsign": "JETSTAR",
+      "countryCode": "AU",
+      "hqAirportIata": "MEL",
+      "baseAirportIatas": [
+        "ADL",
+        "AKL",
+        "BNE",
+        "CHC",
+        "CNS",
+        "DPS",
+        "DRW",
+        "OOL",
+        "PER",
+        "SYD",
+        "WLG"
+      ]
+    },
+    {
+      "name": "Kenya Airways",
+      "iata": "KQ",
+      "icao": "KQA",
+      "callsign": "KENYA",
+      "countryCode": "KE",
+      "hqAirportIata": "NBO",
+      "baseAirportIatas": [
+        "ACC",
+        "APL",
+        "BGF",
+        "BKK",
+        "CPT",
+        "DSS",
+        "FBM",
+        "LUN",
+        "MBA"
+      ]
+    },
+    {
+      "name": "KLM-Royal Dutch Airlines",
+      "iata": "KL",
+      "icao": "KLM",
+      "callsign": "KLM",
+      "countryCode": "NL",
+      "hqAirportIata": "AMS",
+      "baseAirportIatas": [
+        "AUA",
+        "BOG",
+        "DMM",
+        "DPS",
+        "EZE",
+        "JRO",
+        "KGL",
+        "SXM",
+        "TPE",
+        "UIO"
+      ]
+    },
+    {
+      "name": "Korean Air",
+      "iata": "KE",
+      "icao": "KAL",
+      "callsign": "KOREAN AIR",
+      "countryCode": "KR",
+      "hqAirportIata": "ICN",
+      "baseAirportIatas": [
+        "CJU",
+        "GMP",
+        "PUS"
+      ]
+    },
+    {
+      "name": "Kuwait Airways",
+      "iata": "KU",
+      "icao": "KAC",
+      "callsign": "KUWAITI",
+      "countryCode": "KW",
+      "hqAirportIata": "KWI",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "LATAM",
+      "iata": "LA",
+      "icao": "LAN",
+      "callsign": "LAN CHILE",
+      "countryCode": "CL",
+      "hqAirportIata": "SCL",
+      "baseAirportIatas": [
+        "AKL",
+        "ANF",
+        "BEL",
+        "BOG",
+        "BSB",
+        "CCP",
+        "CGH",
+        "CLO",
+        "CNF",
+        "CUZ",
+        "FOR",
+        "GIG",
+        "GRU",
+        "LIM",
+        "MDE",
+        "MIA",
+        "PMC",
+        "PUQ"
+      ]
+    },
+    {
+      "name": "Lion Air",
+      "iata": "JT",
+      "icao": "LNI",
+      "callsign": "LION INTER",
+      "countryCode": "ID",
+      "hqAirportIata": "CGK",
+      "baseAirportIatas": [
+        "BPN",
+        "BTH",
+        "DJJ",
+        "DPS",
+        "KNO",
+        "MDC",
+        "PLM",
+        "SRG",
+        "SUB",
+        "UPG",
+        "YIA"
+      ]
+    },
+    {
+      "name": "LOT - Polish Airlines",
+      "iata": "LO",
+      "icao": "LOT",
+      "callsign": "LOT",
+      "countryCode": "PL",
+      "hqAirportIata": "WAW",
+      "baseAirportIatas": [
+        "BUD",
+        "KRK",
+        "RDO",
+        "VNO",
+        "WRO"
+      ]
+    },
+    {
+      "name": "Lufthansa",
+      "iata": "LH",
+      "icao": "DLH",
+      "callsign": "LUFTHANSA",
+      "countryCode": "DE",
+      "hqAirportIata": "FRA",
+      "baseAirportIatas": [
+        "ALA",
+        "DMM",
+        "MUC",
+        "SSG"
+      ]
+    },
+    {
+      "name": "Malaysia Airlines",
+      "iata": "MH",
+      "icao": "MAS",
+      "callsign": "MALAYSIAN",
+      "countryCode": "MY",
+      "hqAirportIata": "KUL",
+      "baseAirportIatas": [
+        "BKI",
+        "KCH"
+      ]
+    },
+    {
+      "name": "Oman Air",
+      "iata": "WY",
+      "icao": "OMA",
+      "callsign": "OMAN AIR",
+      "countryCode": "OM",
+      "hqAirportIata": "MCT",
+      "baseAirportIatas": [
+        "ZNZ"
+      ]
+    },
+    {
+      "name": "Pakistan International Airlines",
+      "iata": "PK",
+      "icao": "PIA",
+      "callsign": "PAKISTAN",
+      "countryCode": "PK",
+      "hqAirportIata": "KHI",
+      "baseAirportIatas": [
+        "ISB",
+        "LHE",
+        "LYP",
+        "MUX",
+        "PEW",
+        "SKT"
+      ]
+    },
+    {
+      "name": "Pegasus Airlines",
+      "iata": "PC",
+      "icao": "PGT",
+      "callsign": "SUNTURK",
+      "countryCode": "TR",
+      "hqAirportIata": "SAW",
+      "baseAirportIatas": [
+        "ADA",
+        "ADB",
+        "ASR",
+        "AYT",
+        "ECN",
+        "ESB"
+      ]
+    },
+    {
+      "name": "Philippine Airlines",
+      "iata": "PR",
+      "icao": "PAL",
+      "callsign": "PHILLIPINE",
+      "countryCode": "PH",
+      "hqAirportIata": "MNL",
+      "baseAirportIatas": [
+        "CEB",
+        "CRK",
+        "KLO"
+      ]
+    },
+    {
+      "name": "Qantas Airways",
+      "iata": "QF",
+      "icao": "QFA",
+      "callsign": "QANTAS",
+      "countryCode": "AU",
+      "hqAirportIata": "SYD",
+      "baseAirportIatas": [
+        "ADL",
+        "BNE",
+        "CNS",
+        "DRW",
+        "MEL",
+        "PER",
+        "SIN"
+      ]
+    },
+    {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR",
+      "callsign": "QATARI",
+      "countryCode": "QA",
+      "hqAirportIata": "DOH",
+      "baseAirportIatas": [
+        "ABV",
+        "ACC",
+        "DVO",
+        "JNB",
+        "JRO",
+        "LUN"
+      ]
+    },
+    {
+      "name": "Royal Jordanian",
+      "iata": "RJ",
+      "icao": "RJA",
+      "callsign": "JORDANIAN",
+      "countryCode": "JO",
+      "hqAirportIata": "AMM",
+      "baseAirportIatas": [
+        "ZRH"
+      ]
+    },
+    {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR",
+      "callsign": "RYANAIR",
+      "countryCode": "IE",
+      "hqAirportIata": "STN",
+      "baseAirportIatas": [
+        "ACE",
+        "AGA",
+        "AGP",
+        "AHO",
+        "ALC",
+        "ARN",
+        "ATH",
+        "BCN",
+        "BDS",
+        "BER",
+        "BGY",
+        "BHX",
+        "BLQ",
+        "BRI",
+        "BRS",
+        "BRU",
+        "BTS",
+        "BUD",
+        "BVA",
+        "CAG",
+        "CGN",
+        "CIA",
+        "CIY",
+        "CRL",
+        "CTA",
+        "DUB",
+        "EDI",
+        "EIN",
+        "EMA",
+        "FAO",
+        "FCO",
+        "FEZ",
+        "FKB",
+        "FMM",
+        "FUE",
+        "GDN",
+        "GOT",
+        "GRO",
+        "HHN",
+        "KIR",
+        "KRK",
+        "KTW",
+        "KUN",
+        "LIS",
+        "LPA",
+        "LPL",
+        "LTN",
+        "MAD",
+        "MAN",
+        "MLA",
+        "MRS",
+        "MXP",
+        "NAP",
+        "NOC",
+        "NRN",
+        "OPO",
+        "ORK",
+        "OTP",
+        "PFO",
+        "PIK",
+        "PMI",
+        "PMO",
+        "POZ",
+        "PRG",
+        "PSA",
+        "RAK",
+        "RBA",
+        "RIX",
+        "SCQ",
+        "SDR",
+        "SKG",
+        "SNN",
+        "SOF",
+        "SUF",
+        "SVQ",
+        "TFS",
+        "TRF",
+        "TSF",
+        "VIE",
+        "VLC",
+        "VNO",
+        "WAW",
+        "WMI",
+        "WRO",
+        "ZAG"
+      ]
+    },
+    {
+      "name": "SAS Scandinavian Airlines",
+      "iata": "SK",
+      "icao": "SAS",
+      "callsign": "SCANDINAVIAN",
+      "countryCode": "DK",
+      "hqAirportIata": "CPH",
+      "baseAirportIatas": [
+        "ARN",
+        "BGO",
+        "GOT",
+        "OSL",
+        "SVG",
+        "TOS",
+        "TRD"
+      ]
+    },
+    {
+      "name": "Saudi Arabian Airlines",
+      "iata": "SV",
+      "icao": "SVA",
+      "callsign": "SAUDIA",
+      "countryCode": "SA",
+      "hqAirportIata": "JED",
+      "baseAirportIatas": [
+        "AHB",
+        "DMM",
+        "MED",
+        "NUM",
+        "RUH",
+        "SIN",
+        "TIF"
+      ]
+    },
+    {
+      "name": "Scoot",
+      "iata": "TR",
+      "icao": "TGW",
+      "callsign": "SCOOTER",
+      "countryCode": "SG",
+      "hqAirportIata": "SIN",
+      "baseAirportIatas": [
+        "TPE"
+      ]
+    },
+    {
+      "name": "Shandong Airlines",
+      "iata": "SC",
+      "icao": "CDG",
+      "callsign": "SHANDONG",
+      "countryCode": "CN",
+      "hqAirportIata": "TNA",
+      "baseAirportIatas": [
+        "CGO",
+        "CKG",
+        "CTU",
+        "DLC",
+        "HAK",
+        "HET",
+        "HFE",
+        "HGH",
+        "HRB",
+        "INC",
+        "JJN",
+        "KMG",
+        "KWE",
+        "KWL",
+        "NKG",
+        "NNG",
+        "PEK",
+        "SHE",
+        "SWA",
+        "TAO",
+        "TSN",
+        "TYN",
+        "URC",
+        "WUH",
+        "XIY",
+        "XMN",
+        "YNT",
+        "ZUH"
+      ]
+    },
+    {
+      "name": "Shenzhen Airlines",
+      "iata": "ZH",
+      "icao": "CSZ",
+      "callsign": "SHENZHEN AIR",
+      "countryCode": "CN",
+      "hqAirportIata": "SZX",
+      "baseAirportIatas": [
+        "CAN",
+        "CGO",
+        "CZX",
+        "HFE",
+        "HUZ",
+        "JDZ",
+        "JJN",
+        "KHN",
+        "LYI",
+        "NKG",
+        "NNG",
+        "NTG",
+        "PEK",
+        "SYX",
+        "SHE",
+        "TFU",
+        "TYN",
+        "WUH",
+        "WUX",
+        "XIY",
+        "YCU",
+        "YNT",
+        "YTY",
+        "ZUH"
+      ]
+    },
+    {
+      "name": "Sichuan Airlines",
+      "iata": "3U",
+      "icao": "CSC",
+      "callsign": "SICHUAN",
+      "countryCode": "CN",
+      "hqAirportIata": "TFU",
+      "baseAirportIatas": [
+        "CAN",
+        "CGO",
+        "CGQ",
+        "CKG",
+        "CSX",
+        "CTU",
+        "DZH",
+        "HAK",
+        "HGH",
+        "HRB",
+        "INC",
+        "JHG",
+        "KHN",
+        "KMG",
+        "KWE",
+        "LHW",
+        "LZO",
+        "NNG",
+        "PEK",
+        "SHE",
+        "SYX",
+        "TNA",
+        "TYN",
+        "URC",
+        "XIC",
+        "XIY",
+        "XMN",
+        "YBP"
+      ]
+    },
+    {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA",
+      "callsign": "SINGAPORE",
+      "countryCode": "SG",
+      "hqAirportIata": "SIN",
+      "baseAirportIatas": [
+        "BCN",
+        "CPT",
+        "FRA",
+        "LAX"
+      ]
+    },
+    {
+      "name": "SmartWings",
+      "iata": "QS",
+      "icao": "TVS",
+      "callsign": "SKYTRAVEL",
+      "countryCode": "CZ",
+      "hqAirportIata": "PRG",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "South African Airways",
+      "iata": "SA",
+      "icao": "SAA",
+      "callsign": "SPRINGBOK",
+      "countryCode": "ZA",
+      "hqAirportIata": "JNB",
+      "baseAirportIatas": [
+        "ABJ",
+        "CPT"
+      ]
+    },
+    {
+      "name": "Southwest Airlines",
+      "iata": "WN",
+      "icao": "SWA",
+      "callsign": "SOUTHWEST",
+      "countryCode": "US",
+      "hqAirportIata": "DAL",
+      "baseAirportIatas": [
+        "ABQ",
+        "ATL",
+        "AUS",
+        "BNA",
+        "BOI",
+        "BWI",
+        "CMH",
+        "DCA",
+        "DEN",
+        "FLL",
+        "HOU",
+        "IND",
+        "ISP",
+        "LAS",
+        "LAX",
+        "LGA",
+        "MCI",
+        "MCO",
+        "MDW",
+        "MKE",
+        "MSY",
+        "OAK",
+        "PDX",
+        "PHX",
+        "SAN",
+        "SAT",
+        "SJC",
+        "SLC",
+        "SMF",
+        "SNA",
+        "STL",
+        "TPA"
+      ]
+    },
+    {
+      "name": "Spirit Airlines",
+      "iata": "NK",
+      "icao": "NKS",
+      "callsign": "SPIRIT WINGS",
+      "countryCode": "US",
+      "hqAirportIata": "MIA",
+      "baseAirportIatas": [
+        "ACY",
+        "ATL",
+        "AUS",
+        "BOS",
+        "BWI",
+        "DFW",
+        "DTW",
+        "EWR",
+        "FLL",
+        "IAH",
+        "LAS",
+        "LAX",
+        "LGA",
+        "MCO",
+        "MSY",
+        "MYR",
+        "ORD",
+        "TPA"
+      ]
+    },
+    {
+      "name": "Spring Airlines",
+      "iata": "9C",
+      "icao": "CQH",
+      "callsign": "AIR SPRING",
+      "countryCode": "CN",
+      "hqAirportIata": "SHA",
+      "baseAirportIatas": [
+        "CAN",
+        "CGO",
+        "CGQ",
+        "CKG",
+        "CZX",
+        "DLC",
+        "FOC",
+        "HET",
+        "HGH",
+        "HRB",
+        "INC",
+        "KMG",
+        "LHW",
+        "NGB",
+        "NKG",
+        "NNG",
+        "PVG",
+        "SHE",
+        "SJW",
+        "SWA",
+        "SZX",
+        "TFU",
+        "TSN",
+        "URC",
+        "WUH",
+        "XIY",
+        "XMN",
+        "YNZ",
+        "YTY"
+      ]
+    },
+    {
+      "name": "Starlux",
+      "iata": "JX",
+      "icao": "SJX",
+      "callsign": "STARWALKER",
+      "countryCode": "TW",
+      "hqAirportIata": "TPE",
+      "baseAirportIatas": [
+        "RMQ"
+      ]
+    },
+    {
+      "name": "Sun Country Airlines",
+      "iata": "SY",
+      "icao": "SCX",
+      "callsign": "SUN COUNTRY",
+      "countryCode": "US",
+      "hqAirportIata": "MSP",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "SWISS",
+      "iata": "LX",
+      "icao": "SWR",
+      "callsign": "SWISS",
+      "countryCode": "CH",
+      "hqAirportIata": "ZRH",
+      "baseAirportIatas": [
+        "GVA"
+      ]
+    },
+    {
+      "name": "TAP Portugal",
+      "iata": "TP",
+      "icao": "TAP",
+      "callsign": "AIR PORTUGAL",
+      "countryCode": "PT",
+      "hqAirportIata": "LIS",
+      "baseAirportIatas": [
+        "ACC",
+        "OPO"
+      ]
+    },
+    {
+      "name": "Thai Airways International",
+      "iata": "TG",
+      "icao": "THA",
+      "callsign": "THAI",
+      "countryCode": "TH",
+      "hqAirportIata": "BKK",
+      "baseAirportIatas": [
+
+      ]
+    },
+    {
+      "name": "TUI Airways",
+      "iata": "BY",
+      "icao": "TOM",
+      "callsign": "TOMJET",
+      "countryCode": "GB",
+      "hqAirportIata": "LGW",
+      "baseAirportIatas": [
+        "BHX",
+        "BOH",
+        "BRS",
+        "CWL",
+        "EMA",
+        "EXT",
+        "GLA",
+        "LTN",
+        "MAN",
+        "NCL",
+        "NWI",
+        "STN"
+      ]
+    },
+    {
+      "name": "Tunisair",
+      "iata": "TU",
+      "icao": "TAR",
+      "callsign": "TUNAIR",
+      "countryCode": "TN",
+      "hqAirportIata": "TUN",
+      "baseAirportIatas": [
+        "DJE",
+        "DSS",
+        "MIR"
+      ]
+    },
+    {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY",
+      "callsign": "TURKISH",
+      "countryCode": "TR",
+      "hqAirportIata": "IST",
+      "baseAirportIatas": [
+        "ABJ",
+        "AYT",
+        "BOG",
+        "CCS",
+        "CMB",
+        "DLA",
+        "EBB",
+        "ESB",
+        "GRU",
+        "JNB",
+        "JRO",
+        "LBV",
+        "LUN",
+        "NAJ",
+        "NDJ",
+        "NKC",
+        "OUA",
+        "SAW",
+        "SIN",
+        "YEI"
+      ]
+    },
+    {
+      "name": "United Airlines",
+      "iata": "UA",
+      "icao": "UAL",
+      "callsign": "UNITED",
+      "countryCode": "US",
+      "hqAirportIata": "ORD",
+      "baseAirportIatas": [
+        "CEB",
+        "CLE",
+        "DEN",
+        "EWR",
+        "GUM",
+        "HNL",
+        "IAD",
+        "IAH",
+        "KSA",
+        "KWA",
+        "LAX",
+        "NRT",
+        "PNI",
+        "ROR",
+        "SFO",
+        "SPN"
+      ]
+    },
+    {
+      "name": "Vietnam Airlines",
+      "iata": "VN",
+      "icao": "HVN",
+      "callsign": "VIET NAM AIRLINES",
+      "countryCode": "VN",
+      "hqAirportIata": "HAN",
+      "baseAirportIatas": [
+        "DAD",
+        "KTI",
+        "SAI",
+        "SGN",
+        "VCS"
+      ]
+    },
+    {
+      "name": "Virgin Atlantic Airways",
+      "iata": "VS",
+      "icao": "VIR",
+      "callsign": "VIRGIN",
+      "countryCode": "GB",
+      "hqAirportIata": "LHR",
+      "baseAirportIatas": [
+        "MAN",
+        "UVF"
+      ]
+    },
+    {
+      "name": "Virgin Australia",
+      "iata": "VA",
+      "icao": "VOZ",
+      "callsign": "VELOCITY",
+      "countryCode": "AU",
+      "hqAirportIata": "BNE",
+      "baseAirportIatas": [
+        "ADL",
+        "BQB",
+        "MEL",
+        "OCM",
+        "OOL",
+        "PER",
+        "SYD",
+        "WLP"
+      ]
+    },
+    {
+      "name": "Volaris",
+      "iata": "Y4",
+      "icao": "VOI",
+      "callsign": "VOLARIS",
+      "countryCode": "MX",
+      "hqAirportIata": "MEX",
+      "baseAirportIatas": [
+        "BJX",
+        "CUN",
+        "CUU",
+        "GDL",
+        "LAX",
+        "MDW",
+        "MLM",
+        "MTY",
+        "NLU",
+        "SJD",
+        "TIJ",
+        "ZCL"
+      ]
+    },
+    {
+      "name": "WestJet",
+      "iata": "WS",
+      "icao": "WJA",
+      "callsign": "WESTJET",
+      "countryCode": "CA",
+      "hqAirportIata": "YYC",
+      "baseAirportIatas": [
+        "YEG",
+        "YHZ",
+        "YVR",
+        "YWG",
+        "YYJ",
+        "YYT",
+        "YYZ"
+      ]
+    },
+    {
+      "name": "Wizz Air",
+      "iata": "W6",
+      "icao": "WZZ",
+      "callsign": "WIZZ AIR",
+      "countryCode": "HU",
+      "hqAirportIata": "BUD",
+      "baseAirportIatas": [
+        "BCM",
+        "BCN",
+        "BEG",
+        "BNX",
+        "BRI",
+        "BSL",
+        "BVA",
+        "CLJ",
+        "CPH",
+        "CRA",
+        "CRL",
+        "CTA",
+        "DEB",
+        "DTM",
+        "EIN",
+        "FCO",
+        "FMM",
+        "GDN",
+        "GOT",
+        "IAS",
+        "KRK",
+        "KTW",
+        "KUN",
+        "KUT",
+        "LCA",
+        "LGW",
+        "LTN",
+        "MAD",
+        "MMX",
+        "MXP",
+        "NYO",
+        "OTP",
+        "PRG",
+        "RMO",
+        "SBZ",
+        "SCV",
+        "SKP",
+        "SOF",
+        "TIA",
+        "TLL",
+        "TRF",
+        "TSR",
+        "TZL",
+        "VAR",
+        "VIE",
+        "VLC",
+        "VNO",
+        "WAW",
+        "WRO"
+      ]
+    }
+  ]
+}

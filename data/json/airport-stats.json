@@ -1,0 +1,6106 @@
+{
+  "airports": {
+    "AAL": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ABJ": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ABQ": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ABV": {
+      "business": 6,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ABY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ACA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 6,
+      "vacation": 12
+    },
+    "ACC": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ACE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 31,
+      "vacation": 20
+    },
+    "ACH": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ACK": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "ACT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ACV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "ACY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "ADB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 35,
+      "vacation": 30
+    },
+    "ADD": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "ADL": {
+      "business": 8,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 23
+    },
+    "ADZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 30
+    },
+    "AEP": {
+      "business": 10,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 39
+    },
+    "AER": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 8,
+      "vacation": 78
+    },
+    "AES": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "AEY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "AGA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 36
+    },
+    "AGP": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 29,
+      "vacation": 60
+    },
+    "AGR": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AGS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AGX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "AHB": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AJA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 24
+    },
+    "AKL": {
+      "business": 34,
+      "elite": 5,
+      "tourism": 22,
+      "vacation": 10
+    },
+    "ALA": {
+      "business": 13,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ALB": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ALC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 32,
+      "vacation": 38
+    },
+    "ALG": {
+      "business": 16,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 29
+    },
+    "ALH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "AMD": {
+      "business": 9,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "AMM": {
+      "business": 7,
+      "elite": 4,
+      "tourism": 11,
+      "vacation": 19
+    },
+    "AMS": {
+      "business": 40,
+      "elite": 7,
+      "tourism": 55,
+      "vacation": 0
+    },
+    "ANC": {
+      "business": 7,
+      "elite": 1,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "ANU": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 8,
+      "vacation": 18
+    },
+    "ANX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "AOI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "AOJ": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AOK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "APW": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "AQJ": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "AQP": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "ARK": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ARN": {
+      "business": 20,
+      "elite": 6,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "ASB": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ASE": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "ASP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "ASR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 31,
+      "vacation": 0
+    },
+    "ASV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ASW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "ATH": {
+      "business": 5,
+      "elite": 8,
+      "tourism": 50,
+      "vacation": 0
+    },
+    "ATL": {
+      "business": 29,
+      "elite": 9,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ATQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "AUA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 16,
+      "vacation": 20
+    },
+    "AUH": {
+      "business": 40,
+      "elite": 13,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "AUS": {
+      "business": 9,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AVL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "AVN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "AVX": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "AXA": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "AYQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 10
+    },
+    "AYT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 75,
+      "vacation": 0
+    },
+    "BAH": {
+      "business": 25,
+      "elite": 6,
+      "tourism": 22,
+      "vacation": 61
+    },
+    "BAQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "BAR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "BAV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BBK": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "BCN": {
+      "business": 23,
+      "elite": 7,
+      "tourism": 57,
+      "vacation": 44
+    },
+    "BDA": {
+      "business": 8,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BDL": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BDO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "BDS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 17
+    },
+    "BEG": {
+      "business": 12,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BEJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "BER": {
+      "business": 34,
+      "elite": 8,
+      "tourism": 33,
+      "vacation": 30
+    },
+    "BES": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "BEY": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 17,
+      "vacation": 0
+    },
+    "BGI": {
+      "business": 4,
+      "elite": 4,
+      "tourism": 16,
+      "vacation": 0
+    },
+    "BGO": {
+      "business": 9,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "BGY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "BHB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "BHE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "BHR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "BHX": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BHY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BIA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "BID": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BIM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BIO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 7,
+      "vacation": 19
+    },
+    "BIQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "BJL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "BJV": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 32,
+      "vacation": 15
+    },
+    "BJX": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BJZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BKI": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 26,
+      "vacation": 55
+    },
+    "BKK": {
+      "business": 20,
+      "elite": 15,
+      "tourism": 48,
+      "vacation": 0
+    },
+    "BLJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "BLQ": {
+      "business": 18,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "BLR": {
+      "business": 21,
+      "elite": 7,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BME": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "BNA": {
+      "business": 12,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 35
+    },
+    "BNE": {
+      "business": 12,
+      "elite": 3,
+      "tourism": 16,
+      "vacation": 31
+    },
+    "BOB": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "BOC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "BOD": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "BOG": {
+      "business": 42,
+      "elite": 3,
+      "tourism": 44,
+      "vacation": 68
+    },
+    "BOI": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BOJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "BOM": {
+      "business": 49,
+      "elite": 7,
+      "tourism": 49,
+      "vacation": 45
+    },
+    "BON": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 18
+    },
+    "BOO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 18
+    },
+    "BOS": {
+      "business": 18,
+      "elite": 12,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "BPE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BPN": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BPS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 24
+    },
+    "BQB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BRC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 26
+    },
+    "BRI": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 9,
+      "vacation": 30
+    },
+    "BRN": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "BRS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "BRU": {
+      "business": 29,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BRW": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "BSB": {
+      "business": 16,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "BSL": {
+      "business": 2,
+      "elite": 2,
+      "tourism": 16,
+      "vacation": 0
+    },
+    "BTH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 39
+    },
+    "BTS": {
+      "business": 8,
+      "elite": 2,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "BTV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "BUD": {
+      "business": 20,
+      "elite": 5,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "BUF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "BUR": {
+      "business": 4,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BUS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "BVC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 18,
+      "vacation": 12
+    },
+    "BWI": {
+      "business": 13,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "BWN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "BYO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "BZE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "BZN": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "BZO": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "BZR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "CAG": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 15,
+      "vacation": 42
+    },
+    "CAI": {
+      "business": 0,
+      "elite": 8,
+      "tourism": 35,
+      "vacation": 0
+    },
+    "CAN": {
+      "business": 44,
+      "elite": 7,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CAT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "CAY": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CBR": {
+      "business": 8,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CCC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "CCF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "CCJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "CCK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "CCP": {
+      "business": 11,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CCS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CCU": {
+      "business": 3,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "CDG": {
+      "business": 31,
+      "elite": 17,
+      "tourism": 64,
+      "vacation": 0
+    },
+    "CDT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 17
+    },
+    "CEB": {
+      "business": 12,
+      "elite": 2,
+      "tourism": 17,
+      "vacation": 27
+    },
+    "CEI": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CFB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "CFU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 14,
+      "vacation": 25
+    },
+    "CGB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 17
+    },
+    "CGH": {
+      "business": 20,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 41
+    },
+    "CGK": {
+      "business": 30,
+      "elite": 11,
+      "tourism": 10,
+      "vacation": 15
+    },
+    "CGN": {
+      "business": 18,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CGO": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CGQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CGR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "CGY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "CHC": {
+      "business": 2,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 34
+    },
+    "CHQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 21,
+      "vacation": 12
+    },
+    "CHS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "CIA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 20,
+      "vacation": 38
+    },
+    "CIW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CJB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CJC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 20,
+      "vacation": 23
+    },
+    "CJU": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 15,
+      "vacation": 100
+    },
+    "CLE": {
+      "business": 2,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CLO": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CLQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "CLT": {
+      "business": 35,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CLY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "CMB": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 36,
+      "vacation": 0
+    },
+    "CMF": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "CMH": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CMI": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CMN": {
+      "business": 7,
+      "elite": 1,
+      "tourism": 45,
+      "vacation": 0
+    },
+    "CND": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "CNF": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 31
+    },
+    "CNS": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 14,
+      "vacation": 30
+    },
+    "CNX": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 46,
+      "vacation": 0
+    },
+    "CNY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "COK": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 17,
+      "vacation": 12
+    },
+    "COS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "COV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 20,
+      "vacation": 28
+    },
+    "CPE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "CPH": {
+      "business": 34,
+      "elite": 4,
+      "tourism": 25,
+      "vacation": 0
+    },
+    "CPT": {
+      "business": 14,
+      "elite": 9,
+      "tourism": 36,
+      "vacation": 10
+    },
+    "CPX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "CRL": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CRV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "CSX": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "CTA": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 22,
+      "vacation": 57
+    },
+    "CTG": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 25,
+      "vacation": 38
+    },
+    "CTM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 27
+    },
+    "CTS": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 19,
+      "vacation": 90
+    },
+    "CTU": {
+      "business": 21,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 17
+    },
+    "CUK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "CUN": {
+      "business": 0,
+      "elite": 11,
+      "tourism": 50,
+      "vacation": 80
+    },
+    "CUR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 15,
+      "vacation": 20
+    },
+    "CUU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "CUZ": {
+      "business": 0,
+      "elite": 8,
+      "tourism": 46,
+      "vacation": 0
+    },
+    "CVG": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CWB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 31
+    },
+    "CXB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "CXH": {
+      "business": 1,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "CXR": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 49,
+      "vacation": 20
+    },
+    "CYB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "CYO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "CZM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 36,
+      "vacation": 0
+    },
+    "CZX": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DAB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "DAD": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 64,
+      "vacation": 0
+    },
+    "DAL": {
+      "business": 14,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DAR": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DBB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "DBV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 11,
+      "vacation": 35
+    },
+    "DCA": {
+      "business": 23,
+      "elite": 12,
+      "tourism": 0,
+      "vacation": 35
+    },
+    "DED": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "DEL": {
+      "business": 45,
+      "elite": 16,
+      "tourism": 44,
+      "vacation": 45
+    },
+    "DEN": {
+      "business": 35,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "DFW": {
+      "business": 38,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DIG": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DJE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 36,
+      "vacation": 20
+    },
+    "DLA": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DLC": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "DLI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 13,
+      "vacation": 0
+    },
+    "DLM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 33,
+      "vacation": 12
+    },
+    "DLU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "DME": {
+      "business": 31,
+      "elite": 1,
+      "tourism": 30,
+      "vacation": 25
+    },
+    "DMK": {
+      "business": 6,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 30
+    },
+    "DMM": {
+      "business": 16,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DND": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DNR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DOH": {
+      "business": 38,
+      "elite": 14,
+      "tourism": 35,
+      "vacation": 0
+    },
+    "DOM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "DPS": {
+      "business": 0,
+      "elite": 22,
+      "tourism": 63,
+      "vacation": 0
+    },
+    "DRW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "DSS": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "DTW": {
+      "business": 15,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DUB": {
+      "business": 24,
+      "elite": 5,
+      "tourism": 17,
+      "vacation": 30
+    },
+    "DUD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "DUR": {
+      "business": 10,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DUS": {
+      "business": 27,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DVO": {
+      "business": 12,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "DXB": {
+      "business": 50,
+      "elite": 22,
+      "tourism": 55,
+      "vacation": 69
+    },
+    "DYG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "DYU": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "EAS": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "EBA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "EBB": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "EBL": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ECN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 44
+    },
+    "ECP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "EDI": {
+      "business": 12,
+      "elite": 3,
+      "tourism": 25,
+      "vacation": 0
+    },
+    "EFL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 13
+    },
+    "EGE": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "EGS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "EIS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "ENO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "EPR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "ESB": {
+      "business": 10,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ESD": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ESU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "ETM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "EVE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "EVN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 13,
+      "vacation": 0
+    },
+    "EWR": {
+      "business": 35,
+      "elite": 7,
+      "tourism": 33,
+      "vacation": 0
+    },
+    "EYW": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 5,
+      "vacation": 11
+    },
+    "EZE": {
+      "business": 22,
+      "elite": 7,
+      "tourism": 30,
+      "vacation": 0
+    },
+    "FAE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "FAI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "FAO": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 14,
+      "vacation": 45
+    },
+    "FAT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 5
+    },
+    "FCA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "FCO": {
+      "business": 19,
+      "elite": 12,
+      "tourism": 50,
+      "vacation": 0
+    },
+    "FDF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 30
+    },
+    "FEN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "FEZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "FKB": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "FLG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "FLL": {
+      "business": 15,
+      "elite": 9,
+      "tourism": 0,
+      "vacation": 25
+    },
+    "FLN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 41
+    },
+    "FLR": {
+      "business": 0,
+      "elite": 15,
+      "tourism": 16,
+      "vacation": 23
+    },
+    "FLW": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "FNC": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 23,
+      "vacation": 32
+    },
+    "FOC": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "FOR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "FPO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "FRA": {
+      "business": 52,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "FRD": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "FRU": {
+      "business": 6,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "FSC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "FSP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "FSZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "FTE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 9
+    },
+    "FUE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 30,
+      "vacation": 25
+    },
+    "FUK": {
+      "business": 35,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 32
+    },
+    "GAN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "GAY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "GBE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GBJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "GCI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "GCM": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "GCN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "GDL": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GDN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 34
+    },
+    "GDT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "GGT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "GHB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "GIG": {
+      "business": 25,
+      "elite": 9,
+      "tourism": 35,
+      "vacation": 28
+    },
+    "GJT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "GLA": {
+      "business": 6,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "GLW": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GMP": {
+      "business": 29,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 45
+    },
+    "GMZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 7
+    },
+    "GND": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "GOA": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "GOH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "GOI": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 37,
+      "vacation": 0
+    },
+    "GOT": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GOX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 25,
+      "vacation": 19
+    },
+    "GPS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "GPT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "GRB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 2
+    },
+    "GRO": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 48
+    },
+    "GRQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "GRU": {
+      "business": 43,
+      "elite": 7,
+      "tourism": 39,
+      "vacation": 49
+    },
+    "GRZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "GTF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "GUA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "GUM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 23,
+      "vacation": 0
+    },
+    "GUZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "GVA": {
+      "business": 54,
+      "elite": 16,
+      "tourism": 23,
+      "vacation": 0
+    },
+    "GWT": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GYD": {
+      "business": 15,
+      "elite": 5,
+      "tourism": 10,
+      "vacation": 28
+    },
+    "GYE": {
+      "business": 4,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "GYN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "GZP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 21,
+      "vacation": 0
+    },
+    "GZT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "HAC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "HAH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "HAJ": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HAK": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 34
+    },
+    "HAL": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "HAM": {
+      "business": 10,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "HAN": {
+      "business": 22,
+      "elite": 4,
+      "tourism": 25,
+      "vacation": 22
+    },
+    "HAV": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 34,
+      "vacation": 0
+    },
+    "HBA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 35
+    },
+    "HBE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "HDN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "HDS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "HEL": {
+      "business": 17,
+      "elite": 1,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "HER": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 44,
+      "vacation": 0
+    },
+    "HET": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HFE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HGH": {
+      "business": 2,
+      "elite": 13,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HGL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "HHH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "HHP": {
+      "business": 1,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HIJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 25
+    },
+    "HJR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HKG": {
+      "business": 45,
+      "elite": 12,
+      "tourism": 41,
+      "vacation": 0
+    },
+    "HKT": {
+      "business": 0,
+      "elite": 8,
+      "tourism": 54,
+      "vacation": 0
+    },
+    "HLE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "HLP": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HND": {
+      "business": 60,
+      "elite": 16,
+      "tourism": 0,
+      "vacation": 80
+    },
+    "HNL": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 37,
+      "vacation": 87
+    },
+    "HOG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "HOR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "HOU": {
+      "business": 8,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HPH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "HPN": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HRB": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "HRG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 48,
+      "vacation": 10
+    },
+    "HRI": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HSN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HTI": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "HTO": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HUI": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 22,
+      "vacation": 0
+    },
+    "HUX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 16
+    },
+    "HVB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HVN": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HYA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 2
+    },
+    "HYD": {
+      "business": 16,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "HZK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 2,
+      "vacation": 0
+    },
+    "IAD": {
+      "business": 16,
+      "elite": 6,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "IAG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "IAH": {
+      "business": 35,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "IAO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 9
+    },
+    "IBZ": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 31,
+      "vacation": 25
+    },
+    "ICN": {
+      "business": 55,
+      "elite": 10,
+      "tourism": 40,
+      "vacation": 0
+    },
+    "IDA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "IEV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "IGR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 29
+    },
+    "IGU": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 8,
+      "vacation": 32
+    },
+    "IKA": {
+      "business": 17,
+      "elite": 1,
+      "tourism": 20,
+      "vacation": 0
+    },
+    "IKT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "ILO": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "INC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "IND": {
+      "business": 2,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "INN": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "INV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "IOM": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "IOS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "IPC": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "IQT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "ISB": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ISC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "ISG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "ISP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "IST": {
+      "business": 30,
+      "elite": 13,
+      "tourism": 75,
+      "vacation": 0
+    },
+    "ITH": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ITM": {
+      "business": 32,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 54
+    },
+    "ITO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "IXB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "IXC": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "IXU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "IXZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "JAC": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "JAI": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 9,
+      "vacation": 16
+    },
+    "JAV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "JAX": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JDH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JED": {
+      "business": 32,
+      "elite": 10,
+      "tourism": 75,
+      "vacation": 95
+    },
+    "JER": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "JFK": {
+      "business": 48,
+      "elite": 16,
+      "tourism": 55,
+      "vacation": 0
+    },
+    "JGN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JHB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "JHG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "JIB": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JJD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "JJN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JLR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JMK": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 12,
+      "vacation": 16
+    },
+    "JNB": {
+      "business": 43,
+      "elite": 5,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "JNG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JNU": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "JNX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "JRA": {
+      "business": 1,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JRB": {
+      "business": 1,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "JRO": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "JTR": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 15,
+      "vacation": 4
+    },
+    "JZH": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KAT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "KBV": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 49,
+      "vacation": 0
+    },
+    "KCH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 24
+    },
+    "KCT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KEF": {
+      "business": 3,
+      "elite": 3,
+      "tourism": 21,
+      "vacation": 0
+    },
+    "KGC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "KGD": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KGL": {
+      "business": 7,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KGS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 22,
+      "vacation": 14
+    },
+    "KHH": {
+      "business": 22,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KHI": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KHN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KIH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 33
+    },
+    "KIN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 21,
+      "vacation": 0
+    },
+    "KIX": {
+      "business": 33,
+      "elite": 13,
+      "tourism": 48,
+      "vacation": 0
+    },
+    "KKE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "KLO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "KLV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "KLX": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "KMG": {
+      "business": 17,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KMI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "KMJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "KMQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "KNH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "KNO": {
+      "business": 2,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "KOA": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "KOE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "KOJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "KOS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 48
+    },
+    "KRK": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 14,
+      "vacation": 20
+    },
+    "KRR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 24
+    },
+    "KRS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "KTM": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 29,
+      "vacation": 0
+    },
+    "KTN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "KTT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 24
+    },
+    "KUL": {
+      "business": 46,
+      "elite": 9,
+      "tourism": 50,
+      "vacation": 42
+    },
+    "KUM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "KUN": {
+      "business": 11,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KVG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "KWI": {
+      "business": 30,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "KWL": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "KZN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 26
+    },
+    "LAD": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LAP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 24,
+      "vacation": 10
+    },
+    "LAS": {
+      "business": 15,
+      "elite": 6,
+      "tourism": 25,
+      "vacation": 79
+    },
+    "LAX": {
+      "business": 50,
+      "elite": 15,
+      "tourism": 46,
+      "vacation": 0
+    },
+    "LBA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LBJ": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "LBU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "LCA": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 32,
+      "vacation": 19
+    },
+    "LCG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "LCY": {
+      "business": 17,
+      "elite": 11,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LDE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "LDH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "LEB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LED": {
+      "business": 27,
+      "elite": 3,
+      "tourism": 35,
+      "vacation": 28
+    },
+    "LEI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "LEJ": {
+      "business": 7,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LEU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "LFW": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LGA": {
+      "business": 24,
+      "elite": 12,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "LGB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LGG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LGK": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 38,
+      "vacation": 0
+    },
+    "LGW": {
+      "business": 24,
+      "elite": 6,
+      "tourism": 32,
+      "vacation": 0
+    },
+    "LHR": {
+      "business": 44,
+      "elite": 25,
+      "tourism": 60,
+      "vacation": 0
+    },
+    "LIF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "LIG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LIH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 32
+    },
+    "LIM": {
+      "business": 27,
+      "elite": 4,
+      "tourism": 30,
+      "vacation": 26
+    },
+    "LIN": {
+      "business": 22,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 30
+    },
+    "LIO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "LIR": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 14,
+      "vacation": 20
+    },
+    "LIS": {
+      "business": 7,
+      "elite": 6,
+      "tourism": 39,
+      "vacation": 32
+    },
+    "LJG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LJU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "LKO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "LLA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 36
+    },
+    "LMP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "LNY": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LOP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 23
+    },
+    "LOS": {
+      "business": 21,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LPA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 26,
+      "vacation": 57
+    },
+    "LPB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 27,
+      "vacation": 0
+    },
+    "LPL": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LPQ": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 20,
+      "vacation": 12
+    },
+    "LRH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 2,
+      "vacation": 0
+    },
+    "LRM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "LSI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "LTN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "LTO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "LTT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LUA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "LUG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LUX": {
+      "business": 21,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "LVI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 33
+    },
+    "LXA": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "LXR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "LYR": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "LYS": {
+      "business": 3,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 29
+    },
+    "LZN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "MAA": {
+      "business": 7,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "MAD": {
+      "business": 39,
+      "elite": 9,
+      "tourism": 42,
+      "vacation": 39
+    },
+    "MAH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 29,
+      "vacation": 19
+    },
+    "MAN": {
+      "business": 7,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MAO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "MBA": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "MBJ": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 40,
+      "vacation": 29
+    },
+    "MCI": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MCM": {
+      "business": 0,
+      "elite": 9,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MCO": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 16,
+      "vacation": 100
+    },
+    "MCT": {
+      "business": 10,
+      "elite": 9,
+      "tourism": 28,
+      "vacation": 0
+    },
+    "MCY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MCZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 14
+    },
+    "MDE": {
+      "business": 9,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 47
+    },
+    "MDQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "MDW": {
+      "business": 15,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MDZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MED": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 33,
+      "vacation": 35
+    },
+    "MEL": {
+      "business": 29,
+      "elite": 12,
+      "tourism": 30,
+      "vacation": 35
+    },
+    "MEM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MEX": {
+      "business": 37,
+      "elite": 12,
+      "tourism": 50,
+      "vacation": 0
+    },
+    "MFA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "MFM": {
+      "business": 0,
+      "elite": 9,
+      "tourism": 10,
+      "vacation": 22
+    },
+    "MFR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "MFU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "MHD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 49
+    },
+    "MHH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "MIA": {
+      "business": 31,
+      "elite": 18,
+      "tourism": 32,
+      "vacation": 0
+    },
+    "MID": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 38
+    },
+    "MIR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "MKE": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MKY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MLA": {
+      "business": 12,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 55
+    },
+    "MLB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "MLE": {
+      "business": 0,
+      "elite": 15,
+      "tourism": 43,
+      "vacation": 0
+    },
+    "MMH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "MMX": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MMY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "MNF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "MNL": {
+      "business": 39,
+      "elite": 6,
+      "tourism": 17,
+      "vacation": 38
+    },
+    "MPH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 22,
+      "vacation": 30
+    },
+    "MPL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 8
+    },
+    "MPM": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MQP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "MQS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "MRE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "MRS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 11,
+      "vacation": 20
+    },
+    "MRU": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 28,
+      "vacation": 0
+    },
+    "MRV": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MRY": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MSN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MSO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "MSP": {
+      "business": 21,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MSY": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 7,
+      "vacation": 37
+    },
+    "MTJ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "MTY": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MUB": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 8,
+      "vacation": 10
+    },
+    "MUC": {
+      "business": 37,
+      "elite": 9,
+      "tourism": 27,
+      "vacation": 0
+    },
+    "MUH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "MVD": {
+      "business": 5,
+      "elite": 1,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "MVY": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "MXP": {
+      "business": 28,
+      "elite": 14,
+      "tourism": 20,
+      "vacation": 0
+    },
+    "MYR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "MZG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "NAG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NAN": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 37,
+      "vacation": 0
+    },
+    "NAP": {
+      "business": 0,
+      "elite": 8,
+      "tourism": 21,
+      "vacation": 9
+    },
+    "NAS": {
+      "business": 6,
+      "elite": 4,
+      "tourism": 12,
+      "vacation": 24
+    },
+    "NAT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "NBE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 17,
+      "vacation": 0
+    },
+    "NBO": {
+      "business": 20,
+      "elite": 4,
+      "tourism": 9,
+      "vacation": 18
+    },
+    "NBS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NCE": {
+      "business": 0,
+      "elite": 19,
+      "tourism": 38,
+      "vacation": 0
+    },
+    "NCL": {
+      "business": 6,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NEV": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NGB": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NGO": {
+      "business": 18,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "NJF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "NKG": {
+      "business": 4,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "NKM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NLK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "NLU": {
+      "business": 8,
+      "elite": 3,
+      "tourism": 42,
+      "vacation": 0
+    },
+    "NNG": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NNR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NOS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "NOU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "NPE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NQN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "NQU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "NQZ": {
+      "business": 7,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NRT": {
+      "business": 70,
+      "elite": 9,
+      "tourism": 65,
+      "vacation": 0
+    },
+    "NSI": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NSN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 30
+    },
+    "NTE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "NTQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "NUE": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "NUM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "NVT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "NZH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "OAK": {
+      "business": 6,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "OAX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "OGG": {
+      "business": 0,
+      "elite": 8,
+      "tourism": 18,
+      "vacation": 70
+    },
+    "OIM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "OKA": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 16,
+      "vacation": 65
+    },
+    "OKD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 32
+    },
+    "OLB": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 45
+    },
+    "OOL": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 32,
+      "vacation": 17
+    },
+    "OPO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 28,
+      "vacation": 0
+    },
+    "ORD": {
+      "business": 39,
+      "elite": 8,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "ORN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 17
+    },
+    "ORY": {
+      "business": 8,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 29
+    },
+    "OSD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "OSL": {
+      "business": 26,
+      "elite": 3,
+      "tourism": 16,
+      "vacation": 14
+    },
+    "OTD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "OTH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 2
+    },
+    "OTP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "OVB": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "OVD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 11
+    },
+    "PBH": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "PBI": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "PDL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 21,
+      "vacation": 15
+    },
+    "PDP": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "PDX": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PEG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PEK": {
+      "business": 35,
+      "elite": 17,
+      "tourism": 27,
+      "vacation": 0
+    },
+    "PEN": {
+      "business": 7,
+      "elite": 0,
+      "tourism": 28,
+      "vacation": 22
+    },
+    "PER": {
+      "business": 19,
+      "elite": 4,
+      "tourism": 18,
+      "vacation": 14
+    },
+    "PFO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 20,
+      "vacation": 0
+    },
+    "PGA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PGD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "PGK": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "PHL": {
+      "business": 10,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "PHX": {
+      "business": 41,
+      "elite": 7,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PIE": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "PIK": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PIT": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PJM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "PKR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "PKU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "PKX": {
+      "business": 14,
+      "elite": 8,
+      "tourism": 0,
+      "vacation": 50
+    },
+    "PLJ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "PLM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "PLN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PLS": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "PLZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 10
+    },
+    "PMC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 34
+    },
+    "PMI": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 40,
+      "vacation": 100
+    },
+    "PMO": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 14,
+      "vacation": 36
+    },
+    "PMV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 48
+    },
+    "PNH": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 35,
+      "vacation": 0
+    },
+    "PNL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "PNQ": {
+      "business": 7,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 17
+    },
+    "PNT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "POA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 18,
+      "vacation": 60
+    },
+    "POP": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "POS": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PPP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "PPS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "PPT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 28,
+      "vacation": 0
+    },
+    "PQC": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 60,
+      "vacation": 0
+    },
+    "PQQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "PRG": {
+      "business": 19,
+      "elite": 5,
+      "tourism": 26,
+      "vacation": 0
+    },
+    "PRI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "PSA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 16,
+      "vacation": 30
+    },
+    "PSP": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PSR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "PTF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "PTP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 35
+    },
+    "PTY": {
+      "business": 29,
+      "elite": 4,
+      "tourism": 30,
+      "vacation": 0
+    },
+    "PUJ": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 38,
+      "vacation": 30
+    },
+    "PUQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "PUS": {
+      "business": 33,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PUY": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PVA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "PVD": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PVG": {
+      "business": 60,
+      "elite": 21,
+      "tourism": 49,
+      "vacation": 0
+    },
+    "PVR": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 14,
+      "vacation": 44
+    },
+    "PWM": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "PXM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "PXO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 22
+    },
+    "PZU": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "QRO": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "QSR": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 12,
+      "vacation": 16
+    },
+    "RAI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "RAK": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 30,
+      "vacation": 30
+    },
+    "RAP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "RAR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 7,
+      "vacation": 0
+    },
+    "RBA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "RDN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RDU": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "REC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 52
+    },
+    "REG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "REU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 19,
+      "vacation": 0
+    },
+    "RGN": {
+      "business": 3,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RHO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 42,
+      "vacation": 0
+    },
+    "RIH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "RIX": {
+      "business": 13,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RJM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "RKT": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "RMF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 38,
+      "vacation": 24
+    },
+    "RMI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "RMO": {
+      "business": 15,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RMU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "RNO": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "ROA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ROR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "ROT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "RSI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "RST": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RSW": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 38
+    },
+    "RTB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 13,
+      "vacation": 0
+    },
+    "RTM": {
+      "business": 12,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "RUH": {
+      "business": 21,
+      "elite": 8,
+      "tourism": 30,
+      "vacation": 48
+    },
+    "RUN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 15,
+      "vacation": 30
+    },
+    "RVN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "SAB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "SAF": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "SAI": {
+      "business": 0,
+      "elite": 6,
+      "tourism": 29,
+      "vacation": 20
+    },
+    "SAN": {
+      "business": 19,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "SAT": {
+      "business": 2,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SAV": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SAW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 45,
+      "vacation": 46
+    },
+    "SBA": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SBH": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SBP": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SBZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 2,
+      "vacation": 5
+    },
+    "SCL": {
+      "business": 47,
+      "elite": 3,
+      "tourism": 41,
+      "vacation": 65
+    },
+    "SCQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 13
+    },
+    "SCR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "SCT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "SDB": {
+      "business": 1,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SDJ": {
+      "business": 2,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "SDQ": {
+      "business": 4,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 23
+    },
+    "SDU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 25
+    },
+    "SEA": {
+      "business": 40,
+      "elite": 8,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "SEU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "SEZ": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 21,
+      "vacation": 0
+    },
+    "SFB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "SFO": {
+      "business": 42,
+      "elite": 11,
+      "tourism": 19,
+      "vacation": 0
+    },
+    "SGN": {
+      "business": 38,
+      "elite": 1,
+      "tourism": 48,
+      "vacation": 0
+    },
+    "SGU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "SHA": {
+      "business": 27,
+      "elite": 8,
+      "tourism": 0,
+      "vacation": 31
+    },
+    "SHE": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "SHJ": {
+      "business": 12,
+      "elite": 1,
+      "tourism": 18,
+      "vacation": 40
+    },
+    "SHL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "SID": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 23,
+      "vacation": 10
+    },
+    "SIN": {
+      "business": 60,
+      "elite": 17,
+      "tourism": 47,
+      "vacation": 0
+    },
+    "SIP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "SJC": {
+      "business": 11,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SJD": {
+      "business": 0,
+      "elite": 10,
+      "tourism": 24,
+      "vacation": 50
+    },
+    "SJJ": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SJO": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 16,
+      "vacation": 0
+    },
+    "SJU": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 17,
+      "vacation": 24
+    },
+    "SJZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "SKB": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "SKD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 26
+    },
+    "SKG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "SKM": {
+      "business": 1,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SLC": {
+      "business": 30,
+      "elite": 5,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "SLK": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "SLL": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 29,
+      "vacation": 0
+    },
+    "SLZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "SMA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "SMF": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SMI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "SMR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 36
+    },
+    "SNA": {
+      "business": 4,
+      "elite": 7,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "SNN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 22
+    },
+    "SOF": {
+      "business": 6,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SOU": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SPC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 10,
+      "vacation": 18
+    },
+    "SPR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "SPU": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 10,
+      "vacation": 20
+    },
+    "SPX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 33,
+      "vacation": 0
+    },
+    "SRL": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "SRQ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 16
+    },
+    "SSA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 17,
+      "vacation": 21
+    },
+    "SSH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 37,
+      "vacation": 10
+    },
+    "STI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 30
+    },
+    "STL": {
+      "business": 4,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "STM": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "STN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 20,
+      "vacation": 0
+    },
+    "STR": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "STS": {
+      "business": 0,
+      "elite": 9,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "STT": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 12,
+      "vacation": 20
+    },
+    "STX": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 8,
+      "vacation": 10
+    },
+    "SUB": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "SUN": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "SUV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "SVG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 27
+    },
+    "SVO": {
+      "business": 39,
+      "elite": 4,
+      "tourism": 22,
+      "vacation": 34
+    },
+    "SVQ": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 5,
+      "vacation": 17
+    },
+    "SVX": {
+      "business": 3,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "SXB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "SXM": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 12,
+      "vacation": 22
+    },
+    "SXR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 25
+    },
+    "SYD": {
+      "business": 35,
+      "elite": 14,
+      "tourism": 45,
+      "vacation": 50
+    },
+    "SYX": {
+      "business": 0,
+      "elite": 13,
+      "tourism": 17,
+      "vacation": 40
+    },
+    "SZG": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 8,
+      "vacation": 8
+    },
+    "SZX": {
+      "business": 53,
+      "elite": 11,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TAB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TAE": {
+      "business": 14,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TAG": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TAO": {
+      "business": 12,
+      "elite": 2,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "TAS": {
+      "business": 26,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TAT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "TBS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 18,
+      "vacation": 0
+    },
+    "TBZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 19
+    },
+    "TCZ": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TER": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 21,
+      "vacation": 0
+    },
+    "TEX": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TFN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 40,
+      "vacation": 32
+    },
+    "TFS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 50,
+      "vacation": 40
+    },
+    "TFU": {
+      "business": 30,
+      "elite": 5,
+      "tourism": 12,
+      "vacation": 21
+    },
+    "TGD": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "TGZ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 12
+    },
+    "THE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "THR": {
+      "business": 8,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 70
+    },
+    "TIA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "TIR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "TIV": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 13,
+      "vacation": 15
+    },
+    "TLL": {
+      "business": 16,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TLN": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 6,
+      "vacation": 4
+    },
+    "TLS": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TLU": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "TLV": {
+      "business": 33,
+      "elite": 5,
+      "tourism": 34,
+      "vacation": 0
+    },
+    "TMC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TMR": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TNA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TNG": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 17,
+      "vacation": 0
+    },
+    "TNJ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TNM": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 10,
+      "vacation": 0
+    },
+    "TOE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "TOS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 32
+    },
+    "TPA": {
+      "business": 15,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 21
+    },
+    "TPE": {
+      "business": 41,
+      "elite": 3,
+      "tourism": 40,
+      "vacation": 0
+    },
+    "TPP": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TPQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "TPS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "TQO": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "TRC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TRD": {
+      "business": 3,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 45
+    },
+    "TRN": {
+      "business": 17,
+      "elite": 1,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "TRS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TRV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "TSA": {
+      "business": 10,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TSF": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TSN": {
+      "business": 7,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "TSS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TSV": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 28
+    },
+    "TUN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "TUO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "TUS": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TVC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "TVS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TYN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TYS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "TZX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "UDR": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "UIO": {
+      "business": 6,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "UKB": {
+      "business": 5,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ULH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "UNA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "UNN": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "UPG": {
+      "business": 6,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "UPN": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "URC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "USH": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 15,
+      "vacation": 0
+    },
+    "USM": {
+      "business": 0,
+      "elite": 7,
+      "tourism": 52,
+      "vacation": 0
+    },
+    "UST": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "UTP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 52,
+      "vacation": 0
+    },
+    "UVF": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 8,
+      "vacation": 20
+    },
+    "VAR": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 17,
+      "vacation": 34
+    },
+    "VBY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "VCE": {
+      "business": 0,
+      "elite": 12,
+      "tourism": 33,
+      "vacation": 0
+    },
+    "VCP": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "VCS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "VDE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "VDO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 0
+    },
+    "VER": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "VFA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 11,
+      "vacation": 25
+    },
+    "VIE": {
+      "business": 28,
+      "elite": 6,
+      "tourism": 35,
+      "vacation": 0
+    },
+    "VIJ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "VIT": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "VIX": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 29
+    },
+    "VKO": {
+      "business": 20,
+      "elite": 1,
+      "tourism": 20,
+      "vacation": 26
+    },
+    "VLC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 35
+    },
+    "VLI": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "VLL": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "VNO": {
+      "business": 14,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "VNS": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 12
+    },
+    "VNX": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "VOG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "VPS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "VQS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "VRA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 24,
+      "vacation": 0
+    },
+    "VRB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "VRN": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "VTE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "VXE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 0
+    },
+    "WAW": {
+      "business": 19,
+      "elite": 3,
+      "tourism": 12,
+      "vacation": 0
+    },
+    "WDH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "WKA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "WLG": {
+      "business": 9,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "WNZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "WRE": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "WRO": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "WUH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "WUX": {
+      "business": 0,
+      "elite": 5,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "WVB": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 6,
+      "vacation": 0
+    },
+    "WYS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 3,
+      "vacation": 0
+    },
+    "XCH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 14
+    },
+    "XIY": {
+      "business": 9,
+      "elite": 5,
+      "tourism": 7,
+      "vacation": 12
+    },
+    "XMN": {
+      "business": 0,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "XNA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "XRY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 10
+    },
+    "XSC": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YAS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "YDF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "YEG": {
+      "business": 14,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YFB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "YHM": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YHZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 10,
+      "vacation": 18
+    },
+    "YIA": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 36
+    },
+    "YIH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YIW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YKS": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 6
+    },
+    "YLW": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "YOW": {
+      "business": 15,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "YQA": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 3
+    },
+    "YQB": {
+      "business": 15,
+      "elite": 1,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "YQQ": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "YQR": {
+      "business": 7,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YQY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 15
+    },
+    "YRB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 4
+    },
+    "YTY": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 5
+    },
+    "YTZ": {
+      "business": 16,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "YUL": {
+      "business": 33,
+      "elite": 6,
+      "tourism": 10,
+      "vacation": 40
+    },
+    "YVR": {
+      "business": 39,
+      "elite": 8,
+      "tourism": 38,
+      "vacation": 20
+    },
+    "YWG": {
+      "business": 8,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YWS": {
+      "business": 0,
+      "elite": 2,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YXC": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 8
+    },
+    "YXE": {
+      "business": 4,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "YXY": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "YYB": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 7
+    },
+    "YYC": {
+      "business": 32,
+      "elite": 4,
+      "tourism": 0,
+      "vacation": 18
+    },
+    "YYJ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "YYT": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 8,
+      "vacation": 17
+    },
+    "YYZ": {
+      "business": 42,
+      "elite": 6,
+      "tourism": 34,
+      "vacation": 0
+    },
+    "YZF": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 9,
+      "vacation": 0
+    },
+    "ZAD": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 9
+    },
+    "ZAG": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 5,
+      "vacation": 0
+    },
+    "ZAZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 0
+    },
+    "ZIA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 0,
+      "vacation": 20
+    },
+    "ZIH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 14,
+      "vacation": 0
+    },
+    "ZNZ": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 25,
+      "vacation": 0
+    },
+    "ZQN": {
+      "business": 0,
+      "elite": 3,
+      "tourism": 18,
+      "vacation": 60
+    },
+    "ZRH": {
+      "business": 49,
+      "elite": 6,
+      "tourism": 19,
+      "vacation": 0
+    },
+    "ZSA": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 4,
+      "vacation": 0
+    },
+    "ZTH": {
+      "business": 0,
+      "elite": 0,
+      "tourism": 11,
+      "vacation": 12
+    },
+    "ZUH": {
+      "business": 0,
+      "elite": 1,
+      "tourism": 0,
+      "vacation": 3
+    }
+  }
+}

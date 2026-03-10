@@ -1,8 +1,8 @@
 {
-    "defaults": {
-        "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-        "digits": "0123456789",
-        "alphanumeric": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    "charSets": {
+        "L": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "D": "0123456789",
+        "A": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
     },
     "formats": [
         {

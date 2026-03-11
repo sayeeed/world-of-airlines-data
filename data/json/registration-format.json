@@ -2,13 +2,176 @@
     "charSets": {
         "L": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "D": "0123456789",
-        "A": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+        "AN": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+        "A" : "A",
+        "B" : "B",
+        "V" : "V",
+        "Z" : "Z",
+        "K": "56789",
+        "USL": "ABCDEFGHJKLMNPQRSTUVWXYZ",
+        "ARL": "ABCFGHIJKLMNOQRSTUVWXYZ",
+        "BEL": "ACDEFGHIJKLMNOPRSTUVWX",
     },
     "formats": [
         {
+            "countryCode": "AF",
+            "prefix": "YA",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AL",
+            "prefix": "ZA",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "DZ",
+            "prefix": "7T",
+            "pattern": "{P}{V}{L}{L}"
+        },
+        {
+            "countryCode": "AS",
+            "prefix": "N",
+            "pattern": "{P}{H}{H}{H}{USL}{USL}"
+        },
+        {
+            "countryCode": "AO",
+            "prefix": "D2",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AI",
+            "prefix": "VP",
+            "pattern": "{P}{A}{L}{L}"
+        },
+        {
+            "countryCode": "AG",
+            "prefix": "V2",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AR",
+            "prefix": "LV",
+            "pattern": "{P}{ARL}{L}{L}"
+        },
+        {
+            "countryCode": "AM",
+            "prefix": "EK",
+            "pattern": "{P}{D}{D}{D}"
+        },
+        {
+            "countryCode": "AW",
+            "prefix": "P4",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AU",
+            "prefix": "VH",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AT",
+            "prefix": "OE",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "AZ",
+            "prefix": "4K",
+            "pattern": "{P}{A}{Z}{D}{D}{D}"
+        },
+        {
+            "countryCode": "BS",
+            "prefix": "C6",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BH",
+            "prefix": "A9C",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BD",
+            "prefix": "S2",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BB",
+            "prefix": "8P",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BY",
+            "prefix": "EW",
+            "pattern": "{P}{D}{D}{D}{L}{L}"
+        },
+        {
+            "countryCode": "BE",
+            "prefix": "OO",
+            "pattern": "{P}{BEL}{L}{L}"
+        },
+        {
+            "countryCode": "BZ",
+            "prefix": "V3",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BJ",
+            "prefix": "TY",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BM",
+            "prefix": "VP",
+            "pattern": "{P}{B}{L}{L}"
+        },
+        {
+            "countryCode": "BT",
+            "prefix": "A5",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BO",
+            "prefix": "CP",
+            "pattern": "{P}{D}{D}{D}{D}"
+        },
+        {
+            "countryCode": "BA",
+            "prefix": "E7",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BW",
+            "prefix": "A2",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BR",
+            "prefix": "PS",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BN",
+            "prefix": "V8",
+            "pattern": "{P}{L}{L}{AN}"
+        },
+        {
+            "countryCode": "BG",
+            "prefix": "LZ",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BF",
+            "prefix": "XT",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
+            "countryCode": "BI",
+            "prefix": "9U",
+            "pattern": "{P}{L}{L}{L}"
+        },
+        {
             "countryCode": "US",
             "prefix": "N",
-            "pattern": "{P}{D}{D}{D}{L}{L}"
+            "pattern": "{P}{H}{H}{H}{USL}{USL}"
         },
         {
             "countryCode": "UK",
@@ -16,9 +179,14 @@
             "pattern": "{P}{L}{L}{L}{L}"
         },
         {
+            "countryCode": "NK",
+            "prefix": "P-",
+            "pattern": "{K}{D}{D}"
+        },
+        {
             "countryCode": "*",
             "prefix": "REG-",
-            "pattern": "{P}{A}{A}{A}{A}{A}"
+            "pattern": "{P}{AN}{AN}{AN}{AN}{AN}"
         }
     ]
 }
